@@ -2,3 +2,4 @@ build/
 dist/
 check-output/
 check-error.txt
+*~

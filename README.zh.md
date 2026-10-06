@@ -1,6 +1,6 @@
 # AutoWallpaper
 
-Windows 10/11 x64 原生 C++ 托盘壁纸程序。无主窗口、无广告、无图片介绍弹窗，无 Electron、Qt 或 .NET 依赖。
+一个 AI 生成的 Windows 10/11 x64 原生 C++ 托盘壁纸程序。无主窗口、无广告、无图片介绍弹窗，无 Electron、Qt 或 .NET 依赖。
 
 ![AutoWallpaper icon](assets/app.png)
 
